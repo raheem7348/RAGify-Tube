@@ -1,0 +1,10 @@
+streamlit
+transformers==4.40.2
+torch
+langchain-community
+langchain-core
+langchain-huggingface
+sentence-transformers
+youtube-transcript-api
+faiss-cpu
+python-dotenv
